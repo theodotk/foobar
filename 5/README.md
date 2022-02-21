@@ -51,6 +51,7 @@ Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
 -- Java cases --
+
 Input:
 Solution.solution({{true, true, false, true, false, true, false, true, true, false}, {true, true, false, false, false, false, true, true, true, false}, {true, true, false, false, false, false, false, false, false, true}, {false, true, false, false, false, false, true, true, false, false}})
 Output:
@@ -67,6 +68,7 @@ Output:
     254
 
 -- Python cases --
+
 Input:
 solution.solution([[True, True, False, True, False, True, False, True, True, False], [True, True, False, False, False, False, True, True, True, False], [True, True, False, False, False, False, False, False, False, True], [False, True, False, False, False, False, True, True, False, False]])
 Output:
@@ -82,4 +84,3 @@ solution.solution([[True, False, True, False, False, True, True, True], [True, F
 Output:
     254
 
-'''
